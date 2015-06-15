@@ -10,6 +10,21 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Ad Gallery is easy to use and allows you to implement ads in your galleries.
 
+
+https://wordpress.org/plugins/about/guidelines/
+https://wordpress.org/plugins/about/#readme
+
+https://wordpress.org/plugins/advertising-manager/
+
+https://wordpress.org/plugins/photo-gallery/
+https://wordpress.org/plugins/grid-gallery-ready/
+https://wordpress.org/plugins/gallery-bank/
+https://wordpress.org/plugins/gallery-plugin/
+
+
+
+
+
 == Description ==
 
 This is the long description.  No limit, and you can use Markdown (as well as in the following sections).
